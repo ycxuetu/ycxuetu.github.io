@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ycxuetu.github.io</id>
-    <title>NightRain&apos;s Notes</title>
-    <updated>2020-02-06T04:38:40.811Z</updated>
+    <title></title>
+    <updated>2020-02-06T04:39:17.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ycxuetu.github.io"/>
     <link rel="self" href="https://ycxuetu.github.io/atom.xml"/>
-    <subtitle>Some Days Are Rain,But My Heart Is Luciferous</subtitle>
     <logo>https://ycxuetu.github.io/images/avatar.png</logo>
     <icon>https://ycxuetu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, NightRain&apos;s Notes</rights>
+    <rights>All rights reserved 2020, </rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ycxuetu.github.io/post/hello-gridea</id>
